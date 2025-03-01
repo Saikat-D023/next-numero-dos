@@ -6,3 +6,5 @@ export default function BlogPage({params}: any) {
         Blog Page:  {postId}
     </div>
 }
+
+//will do the req changes
